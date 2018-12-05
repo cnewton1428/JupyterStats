@@ -37,3 +37,8 @@ Next Thursday, the 13th at 6:30pm
 https://beta2.meetup.com/Diversity-in-data/
 
 https://www.anaconda.com/download/#macos
+
+
+data.gov look at own data set for something to play with
+
+
