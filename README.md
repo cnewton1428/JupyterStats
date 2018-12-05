@@ -46,3 +46,5 @@ Google docs look at this:
 https://cloud.google.com/bigquery/docs/visualize-jupyter
 
 Google has cloud for everything
+
+https://cloud.google.com/bigquery/docs/tutorials
