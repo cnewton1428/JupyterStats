@@ -42,3 +42,7 @@ https://www.anaconda.com/download/#macos
 data.gov look at own data set for something to play with
 
 
+Google docs look at this:
+https://cloud.google.com/bigquery/docs/visualize-jupyter
+
+Google has cloud for everything
