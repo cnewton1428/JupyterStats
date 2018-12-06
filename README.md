@@ -1,5 +1,7 @@
 # JupyterStats
 
+https://www.tableau.com/academic
+
 https://www.kaggle.com/shivam2503/diamonds
 
 https://github.com/zekelabs/data-science-complete-tutorial/blob/master/2.%20Pandas%20for%20Machine%20Learning.ipynb
