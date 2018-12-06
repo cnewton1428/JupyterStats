@@ -1,6 +1,13 @@
 # JupyterStats
 
+Tomorrow Quiz AWS voucher; assessment of skills in the course (problem solving abilities, def of particular thing what is linear regression, some MC)
+certificate of completion for grant program
+
+
 https://www.tableau.com/academic (student license for 1 year)
+Scroll down to students-->learn more--> Get Tableau for free
+
+upload documentation by scanning and sending to Tableau
 
 https://www.kaggle.com/shivam2503/diamonds
 
