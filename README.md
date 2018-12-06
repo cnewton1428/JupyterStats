@@ -47,6 +47,12 @@ data.gov look at own data set for something to play with
 Google docs look at this:
 https://cloud.google.com/bigquery/docs/visualize-jupyter
 
+
+
 Google has cloud for everything
 
 https://cloud.google.com/bigquery/docs/tutorials
+
+https://stackoverflow.com/questions/38288372/unable-to-drop-a-column-from-pandas-dataframe
+
+https://stackoverflow.com/questions/29885371/how-do-i-comment-out-multiple-lines-in-jupyter-ipython-notebook
