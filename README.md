@@ -1,6 +1,6 @@
 # JupyterStats
 
-https://www.tableau.com/academic
+https://www.tableau.com/academic (student license for 1 year)
 
 https://www.kaggle.com/shivam2503/diamonds
 
